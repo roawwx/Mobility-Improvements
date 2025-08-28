@@ -55,7 +55,7 @@ Perform a **double jump** in mid-air, execute a **dash** with particles and soun
 ## 📌 Credits
 
 👤 **Roa (Héctor)**  
-- Developer of **Mobility Improvements**  
+- Developer & Helper at **LolameStudio**  
 - Creator of [Survival Parkour Wand](https://github.com/roawwx/Survival-Parkour-Wand)
 
 💬 Discord: [Roa](https://discord.com/users/495946393223954432)

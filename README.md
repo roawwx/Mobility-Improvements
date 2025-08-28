@@ -12,7 +12,7 @@ Perform a **double jump** in mid-air, execute a **dash** with particles and soun
   - Requires enough hunger (½ shank).
   - Balanced: doesn’t cancel fall damage.
 - ⚡ **Dash Ability**:
-  - Keybind (default: **V**).
+  - Keybind (default: **C**).
   - Short horizontal boost with particles & sound.
   - Consumes ½ shank of hunger.
   - Has a **2 second cooldown**.
